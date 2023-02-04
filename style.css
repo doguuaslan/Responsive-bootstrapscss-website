@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
+.carousel-img {
+  height: 370px;
+}
+
+.about {
+  border-bottom: 1px solid rgb(167, 165, 165);
+  background-color: white;
+}
+
+.about img {
+  width: 80px;
+  height: 80px;
+  position: relative;
+  top: -80px;
+}
+
+.justified {
+  text-align: justify;
+}
+
+.gallery {
+  background-color: #f2f2f2;
+}
+
+.card img:hover {
+  opacity: 0.7;
+  transition: 0.5s;
+}
+
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif !important;
+}
+
+.seperator {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+
+.grey-i {
+  color: #343a40;
+  position: relative;
+  top: -60px;
+  text-align: center;
+  font-size: 40px;
+  border: 15px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+
+.white-i {
+  color: #343a40;
+  position: relative;
+  top: -62.5px;
+  text-align: center;
+  font-size: 40px;
+  border: 15px solid white;
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
